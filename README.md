@@ -1,1 +1,2 @@
-# mychat_demo
+**基于bmob第三方实现聊天**
+
